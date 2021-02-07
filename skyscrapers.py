@@ -160,6 +160,3 @@ def check_skyscrapers(input_path: str):
         return False
 
     return True
-
-if __name__ == "__main__":
-    print(check_skyscrapers("check.txt"))
